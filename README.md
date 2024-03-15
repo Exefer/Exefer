@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![I know](https://skillicons.dev/icons?i=js,ts,nextjs,solidjs,prisma,markdown,tailwind,bun,lua,linux)
+  ![I know](https://skillicons.dev/icons?i=ts,nextjs,solidjs,prisma,markdown,tailwind,bun,lua,linux)
 </div>
 
 ---
