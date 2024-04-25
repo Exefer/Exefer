@@ -4,7 +4,7 @@
   
  ![Profile Views](https://komarev.com/ghpvc/?username=aryxst)
   
- ![I know](https://skillicons.dev/icons?i=ts,react,nextjs,solidjs,vite,html,tailwind,bun,lua,debian,vscode,figma,git)
+ ![I know](https://skillicons.dev/icons?i=ts,react,nextjs,solidjs,html,tailwind,bun,lua,debian,vscode,figma,git)
 </div>
 
 ---
