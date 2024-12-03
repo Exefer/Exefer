@@ -4,14 +4,14 @@
   
  ![Profile Views](https://komarev.com/ghpvc/?username=aryxst)
   
- ![I use](https://skillicons.dev/icons?i=ts,react,nextjs,solidjs,html,tailwind,bun,lua,debian,vscode,figma,git,godot)
+ ![I use](https://skillicons.dev/icons?i=rust,bun,vscode,tailwind,svelte)
 </div>
 
 ---
 
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>Github Stats</summary>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryxst&layout=compact&theme=onedark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryxst&theme=onedark&show_icons=true"/>
