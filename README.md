@@ -8,7 +8,7 @@
 
 <h2>About me</h2>
 
-I'm a young developer who started coding around 2020. My primary focus is on TypeScript, but I also enjoy working with Rust.  
+I'm a young developer who began coding casually in 2020 and got more serious about it in 2022. My primary focus is on TypeScript, but I also enjoy working with Rust.  
 I love playing games and occasionally try my hand at making them using Lua and GDScript.
 
 <h2>I use</h2>
