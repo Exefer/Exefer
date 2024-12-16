@@ -11,6 +11,7 @@
 I'm a young developer who began coding casually in 2020 and got more serious about it in 2022. My primary focus is on TypeScript, but I also enjoy working with Rust.  
 I love playing games and occasionally try my hand at making them using Lua and GDScript.
 
+I made lots of projects from 2022 to now. For the most part, I revisited them in 2024 and privated/archived most of them because of the bad code organization and overall because they were mainly for exercising. I’m re-learning programming.
 <h2>I use</h2>
 
 <img src="https://skillicons.dev/icons?i=rust,ts,nodejs,bun,vscode,svelte" alt="Technologies I use" />
