@@ -14,8 +14,8 @@ I love playing games and occasionally try my hand at making them using Lua and G
 <h2>My stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryxst&layout=compact&theme=onedark" height="180em" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aryxst&theme=onedark&show_icons=true" height="180em" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exefer&layout=compact&theme=onedark" height="180em" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=exefer&theme=onedark&show_icons=true" height="180em" alt="GitHub stats" />
 </div>
 
 <h2>Other stats</h2>
