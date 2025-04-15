@@ -9,10 +9,3 @@ I love playing games and occasionally try my hand at making them using Lua and G
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exefer&layout=compact&theme=onedark" height="180em" alt="Top languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=exefer&theme=onedark&show_icons=true" height="180em" alt="GitHub stats" />
 </div>
-
-<h2>Other stats</h2>
-
-<details>
-<summary>Wakatime</summary>
-  <img src="https://wakatime.com/share/@018d9414-9aad-4570-b5c3-bc3d4e8eb114/31d0b850-a0e9-4a19-a067-92cd7e1d5153.svg" alt="Wakatime stats" />
-</details>
