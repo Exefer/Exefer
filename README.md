@@ -1,11 +1,3 @@
-<h1 align="center">Hey there 👋</h1>
-
-<div align="center">
-  <img height="100px" src="/clippy.gif" />
-  <img height="100px" src="/merlin.webp" />
-  <img height="100px" src="/chill_guy.webp" />
-</div>
-
 <h2>About me</h2>
 
 I'm a young developer who began coding casually in 2020 and got more serious about it in 2023. My primary focus is on TypeScript, but I also enjoy working with Rust.  
