@@ -1,6 +1,6 @@
 <h2>About me</h2>
 
-I'm a young developer who began coding in 2023. My primary focus is on TypeScript, but I also enjoy working with Rust.  
+I'm a young developer who began coding in 2024. My primary focus is on TypeScript, but I also enjoy working with Rust.  
 I love playing games and occasionally try my hand at making them using Lua and GDScript.
 
 <h2>My stats</h2>
